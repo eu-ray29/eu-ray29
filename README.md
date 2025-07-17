@@ -1,13 +1,5 @@
-<h3 align="center"> Olá, eu sou a Raynara 👋</h3>
-
-<div>
-<p>🎓 Estudante de Desenvolvimento Web </p>  
-<p>💡 Explorando JavaScript, DOM, APIs, Acessibilidade e muito mais </p>    
-<p>🔧 Em constante aprendizado e evolução! </p>
-</div>
 
 ##
-
 <h3> 🌟 Github Status </h3>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
@@ -25,6 +17,7 @@
     <img align="center" alt="Ray-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Ray-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Ray-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Ray-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   </div>
 <br>
 <div> 

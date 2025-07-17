@@ -1,5 +1,13 @@
+<h3 align="center">Olá, eu sou a Ray ❤️</h3>
 
 ##
+
+- 🎓 Estudante de Desenvolvimento Web
+- 💡 Explorando JavaScript, DOM, APIs, Acessibilidade e muito mais 
+- 🔧 Em constante aprendizado e evolução! 
+
+##
+
 <h3> 🌟 Github Status </h3>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">

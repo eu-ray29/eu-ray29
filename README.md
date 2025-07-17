@@ -12,9 +12,9 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=eu-ray29&show_icons=true&theme=panda" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eu-ray29&show_icons=true&theme=chartreuse-dark" height="180em"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu-ray29&layout=compact&theme=panda" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu-ray29&layout=compact&theme=chartreuse-dark" height="180em"/>
 
 </div>
 
